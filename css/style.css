@@ -55,7 +55,7 @@ li {
     align-items: center;
 }
 
-li:hover {
+li:hover {  
     color: blue;
 }
 
